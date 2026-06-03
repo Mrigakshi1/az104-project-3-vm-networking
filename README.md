@@ -44,6 +44,12 @@ Configured an inbound RDP rule allowing TCP port 3389.
 
 ![RDP Rule](screenshots/06-rdp-rule.png)
 
+## NSG Association
+
+The custom Network Security Group (nsg-demo1) was associated with the virtual machine's network interface to enforce inbound and outbound traffic rules.
+
+![NSG Association](screenshots/07-nic-association.png)
+
 ## Connectivity Test
 
 Successfully connected to the VM using Remote Desktop Protocol (RDP).
