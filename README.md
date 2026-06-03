@@ -18,7 +18,7 @@ Created a resource group to organize all Azure resources used in this lab.
 
 Created a Virtual Network (VNet) and subnet to host the virtual machine.
 
-![VNet](screenshots/02-vnet.png)(screenshots/03-vnet-subnet.png)
+![VNet](screenshots/02-vnet.pngscreenshots/03-vnet-subnet.png)
 
 ## Virtual Machine
 
